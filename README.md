@@ -255,6 +255,8 @@ WHERE [Q11 - Which Country do you live in?] LIKE 'Portugsl'
 
 ### Removing Entries with Less than Two Unique Counts:
 
+To enhance the dataset's suitability for analysis and ensure the reliability of the data, entries with less than two unique counts were removed. This process involved identifying and eliminating entries with limited representation. Here's how this refinement was implemented:
+
 ```sql
 DELETE FROM dbo.JobSurveys
 WHERE [Q13 - Ethnicity] IN (
