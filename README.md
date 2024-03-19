@@ -382,44 +382,66 @@ The map feature allows users to visualize the geographical distribution of surve
 
 
 ### What is the distribution of job titles among data professionals?
-Over the analyzed period, there has been a notable surge in sale prices, with an approximate increase of 25.5% in average prices since the beginning of 2013. This significant uptrend stands in contrast to the estimated inflation rate of 3.024% over the same timeframe, as reported by the U.S. Bureau of Labor Statistics (BLS).
+The massive majority of people answering the survey were Data analysts ( 250+), followed by students/looking for job(50+) and then Data engineers(25+), Data scientists, Business analysts and then Database Dev.
+
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/e391612a-e4e5-4841-bb46-e9764428d6c6)
+
 
 <br/><br/>
 
 ### Which programming language is the most favored among data professionals?
-Our visualizations reveal a discernible positive correlation between sale prices and property acreage, indicating that larger properties tend to command higher sale prices.
+The favourite programming language is python followed by R then SQL.
+
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/8375baa8-1678-49be-b084-ae37b4372bae)
+
 
 <br/><br/>
 
 ### What is the average yearly salary of data professionals across different industries?
-According to our pie chart analysis, the majority of houses (88.6%) are designated for "single-family" land use, followed by 4.9% for "Duplex" land use, and 3.5% for "Zero Lot Line." Other land use categories collectively account for the remaining 3%.
+The average Yearly Salary is 53k, given that the distribution shows that analytics Managers make the most followed by Data scientists, Analytics Engineers and then Data engineers.
+
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/032671f2-becd-45a4-9a5c-a357cdad040d)
+
 
 <br/><br/>
 
 ### How do salary levels vary based on gender?
-The average total property value has exhibited relative stability over the years, with no significant fluctuations observed.
+Male and females make around exactly as much on average.
+
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/0e14a43b-ebf1-4ccd-a2f1-66f4f309b697)
+
 
 <br/><br/>
 
 ### What are the age demographics of data professionals?
-Our analysis suggests that housing characteristics, particularly the number of bedrooms, have a notable impact on sale prices. Properties with a higher number of bedrooms tend to command higher prices, with a noticeable exponential growth trend beyond 9 bedrooms. However, due to the limited number of sales with 7+ bedrooms, further assessment is warranted in this regard.
+Most people answering the survey were mostly between 20 and 40 years old. being the average 29,7 years old.
+
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/ff7f9245-7be1-40cd-9e9b-a01a7aa9d250)
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/2605a506-83c7-4d51-8b24-48072d149796)
+
 
 <br/><br/>
 
 ### Is there a relationship between educational attainment and salary levels?
-The average sale price of properties in Nashville is $308,139.6.
+On average, PHD doctorates have a 100k+ salary, followed by masters at 60k then highschool at 50k, then bachelors then associates being very very close behind high schoolers, around 50 k each.
+
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/2c5f9f69-0312-499d-a3e4-3d6a29b3982d)
+
 
 <br/><br/>
 
 ### What is the ethnic diversity among data professionals?
-A total of 417 properties were sold as vacant according to our dataset.
+ Around 39% of them were White/Caucasian, followed by 25% Asian, then 17% African American/Black, then followed by Hispanics and Indians.
+
+
+![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/8e2bd64a-2b4b-466c-b568-00643df94044)
 
 <br/><br/>
 
 ### Other Trends in the Data:
-Several noteworthy trends emerge from our data analysis. Firstly, there is a clear preference for selling houses during the summer months, with peak sales occurring between May and July. Additionally, while the cheapest house was sold for $100, it exhibited a notably high total value of the lot. Furthermore, approximately 20 properties were sold significantly below their total value, with the minimum total value in the dataset being around $17,000.
+Upon creation of the visualizations we can see that there is a rather low salary happiness (4,28 out of 10) in comparison the the other happiness values. The highest being coworker happiness at 5.87 and Work/life Balance right behind, while Management is lacking a bit at 5.38.
 
-Moreover, the majority of houses sold have between 2-4 bedrooms. Interestingly, the average price of a vacant house sold is considerably lower than that of a non-vacant house, averaging $190,000. However, it's worth noting that the average price of vacant houses has shown an upward trend over the years, increasing from $150,000 in 2013 to $200,000 in 2016.
+We Can also see that the Favourite programming language is Python by a landslide and then R. SQL being a very low favourite considering the importance in the field. 
 
 <br/><br/>
 
