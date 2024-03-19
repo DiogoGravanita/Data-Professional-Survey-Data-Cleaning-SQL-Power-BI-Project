@@ -382,7 +382,7 @@ The map feature allows users to visualize the geographical distribution of surve
 
 
 ### What is the distribution of job titles among data professionals?
-The massive majority of people answering the survey were Data analysts ( 250+), followed by students/looking for job(50+) and then Data engineers(25+), Data scientists, Business analysts and then Database Dev.
+The survey reveals a significant predominance of Data Analysts, comprising over 250 respondents, followed by students or those actively seeking jobs in the data domain, totaling 50+. Following closely are Data Engineers, Data Scientists, Business Analysts, and Database Developers.
 
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/e391612a-e4e5-4841-bb46-e9764428d6c6)
 
@@ -390,7 +390,7 @@ The massive majority of people answering the survey were Data analysts ( 250+), 
 <br/><br/>
 
 ### Which programming language is the most favored among data professionals?
-The favourite programming language is python followed by R then SQL.
+Python emerges as the most favored programming language among data professionals, followed by R and SQL.
 
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/8375baa8-1678-49be-b084-ae37b4372bae)
 
@@ -398,7 +398,8 @@ The favourite programming language is python followed by R then SQL.
 <br/><br/>
 
 ### What is the average yearly salary of data professionals across different industries?
-The average Yearly Salary is 53k, given that the distribution shows that analytics Managers make the most followed by Data scientists, Analytics Engineers and then Data engineers.
+The average yearly salary among data professionals stands at $53,000. Notably, Analytics Managers command the highest salaries, followed by Data Scientists, Analytics Engineers, and Data Engineers.
+
 
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/032671f2-becd-45a4-9a5c-a357cdad040d)
 
@@ -406,7 +407,7 @@ The average Yearly Salary is 53k, given that the distribution shows that analyti
 <br/><br/>
 
 ### How do salary levels vary based on gender?
-Male and females make around exactly as much on average.
+The analysis indicates that both males and females earn similar average salaries.
 
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/0e14a43b-ebf1-4ccd-a2f1-66f4f309b697)
 
@@ -414,7 +415,7 @@ Male and females make around exactly as much on average.
 <br/><br/>
 
 ### What are the age demographics of data professionals?
-Most people answering the survey were mostly between 20 and 40 years old. being the average 29,7 years old.
+The majority of survey respondents fall within the age bracket of 20 to 40 years, with an average age of 29.7 years.
 
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/ff7f9245-7be1-40cd-9e9b-a01a7aa9d250)
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/2605a506-83c7-4d51-8b24-48072d149796)
@@ -423,7 +424,7 @@ Most people answering the survey were mostly between 20 and 40 years old. being 
 <br/><br/>
 
 ### Is there a relationship between educational attainment and salary levels?
-On average, PHD doctorates have a 100k+ salary, followed by masters at 60k then highschool at 50k, then bachelors then associates being very very close behind high schoolers, around 50 k each.
+On average, individuals with PHD doctorates command salaries exceeding $100,000, followed by those with master's degrees at $60,000. High school graduates and bachelor's degree holders earn approximately $50,000, with associate degree holders trailing closely.
 
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/2c5f9f69-0312-499d-a3e4-3d6a29b3982d)
 
@@ -431,7 +432,7 @@ On average, PHD doctorates have a 100k+ salary, followed by masters at 60k then 
 <br/><br/>
 
 ### What is the ethnic diversity among data professionals?
- Around 39% of them were White/Caucasian, followed by 25% Asian, then 17% African American/Black, then followed by Hispanics and Indians.
+Approximately 39% of survey respondents identified as White/Caucasian, followed by 25% Asian, 17% African American/Black, and subsequent percentages for Hispanics and Indians.
 
 
 ![image](https://github.com/DiogoGravanita/Data-Professional-Survey-Data-Cleaning-SQL-Power-BI-Project/assets/163042130/8e2bd64a-2b4b-466c-b568-00643df94044)
@@ -439,12 +440,20 @@ On average, PHD doctorates have a 100k+ salary, followed by masters at 60k then 
 <br/><br/>
 
 ### Other Trends in the Data:
-Upon creation of the visualizations we can see that there is a rather low salary happiness (4,28 out of 10) in comparison the the other happiness values. The highest being coworker happiness at 5.87 and Work/life Balance right behind, while Management is lacking a bit at 5.38.
+Upon analyzing the visualizations, it's evident that there's a relatively lower satisfaction level concerning salary (4.28 out of 10) compared to other aspects. Coworker happiness ranks highest at 5.87, closely followed by Work/Life Balance, while Management satisfaction lags slightly behind at 5.38.
 
-We Can also see that the Favourite programming language is Python by a landslide and then R. SQL being a very low favourite considering the importance in the field. 
+Additionally, Python emerges as the overwhelmingly favored programming language, followed by R, while SQL, despite its significance in the field, registers comparatively lower favoritism.
 
 <br/><br/>
 
 ## Conclusion:
 
-The Nashville housing market demonstrates strong growth trends, with sale prices outpacing inflation rates. Correlations between property size and sale price highlight key determinants of property values. Diverse land use categories cater to varied housing preferences, with single-family units dominating the market. These insights empower stakeholders to make informed decisions in navigating Nashville's dynamic real estate landscape.
+In conclusion, this data cleaning and analysis project sheds light on various aspects of the data professional landscape, offering valuable insights into job titles, programming language preferences, salary trends, demographic characteristics, and educational attainment within the industry.
+
+Our analysis reveals that Data Analysts constitute the majority of respondents, underlining the significance of this role in the data ecosystem. Python emerges as the preferred programming language, indicative of its versatility and widespread adoption across various data domains.
+
+Salary trends showcase disparities based on job roles and educational backgrounds, with Analytics Managers commanding the highest salaries and individuals with PHD doctorates earning significantly more on average. However, gender-based salary discrepancies were not discernible in our analysis.
+
+Demographic insights underscore the industry's diversity, with significant representation from various ethnic backgrounds. Moreover, the age distribution reveals a youthful workforce, with a substantial proportion falling within the 20 to 40 age bracket.
+
+This project encapsulates not only the present state but also hints at future trajectories within the data professional landscape. By highlighting areas of strength and potential improvement, our findings serve as a foundational resource for stakeholders, policymakers, and aspiring data professionals alike, facilitating informed decision-making and strategic planning in this dynamic field.
